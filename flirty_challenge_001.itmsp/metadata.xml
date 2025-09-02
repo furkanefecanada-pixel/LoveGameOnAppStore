@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package version="software5.7" xmlns="http://apple.com/itunes/importer">
+  <provider> 2CB9486G7F</provider>
+  <team_id> 2CB9486G7F</team_id>
+  <software>
+    <vendor_id>flirty_challenge_001</vendor_id>
+    <software_metadata>
+      <in_app_purchases>
+        <in_app_purchase>
+          <product_id>classicpack.lovedare</product_id>
+          <reference_name>classicpack.lovedare</reference_name>
+          <type>subscription</type>
+          <products>
+            <product>
+              <cleared_for_sale>true</cleared_for_sale>
+              <wholesale_price_tier>5</wholesale_price_tier>
+            </product>
+          </products>
+          <locales>
+            <locale name="en-US">
+              <title>Classic Pack</title>
+              <description>Basic partner games and challenges.</description>
+            </locale>
+          </locales>
+          <review_screenshot>
+            <file_name>1024x1024bb (1).png</file_name>
+            <size>1251810</size>
+            <checksum>a47a0371e41adcc788b0bc9912940b0c</checksum>
+          </review_screenshot>
+        </in_app_purchase>
+        <in_app_purchase>
+          <product_id>standardpack.lovedare</product_id>
+          <reference_name>standardpack.lovedare</reference_name>
+          <type>subscription</type>
+          <products>
+            <product>
+              <cleared_for_sale>true</cleared_for_sale>
+              <wholesale_price_tier>10</wholesale_price_tier>
+            </product>
+          </products>
+          <locales>
+            <locale name="en-US">
+              <title>Standard Pack</title>
+              <description>Feel Real Love</description>
+            </locale>
+          </locales>
+          <review_screenshot>
+            <file_name>1024x1024bb.png</file_name>
+            <size>1506978</size>
+            <checksum>28f323229e637dc2d1c99e306268a973</checksum>
+          </review_screenshot>
+        </in_app_purchase>
+        <in_app_purchase>
+          <product_id>premiumpack.lovedare</product_id>
+          <reference_name>premiumpack.lovedare</reference_name>
+          <type>subscription</type>
+          <products>
+            <product>
+              <cleared_for_sale>true</cleared_for_sale>
+              <wholesale_price_tier>20</wholesale_price_tier>
+            </product>
+          </products>
+          <locales>
+            <locale name="en-US">
+              <title>Premium</title>
+              <description> All content, exclusive features.</description>
+            </locale>
+          </locales>
+          <review_screenshot>
+            <file_name>1024x1024bb (2).png</file_name>
+            <size>1107427</size>
+            <checksum>3f5c80d8e30329302385269fcc68976b</checksum>
+          </review_screenshot>
+        </in_app_purchase>
+      </in_app_purchases>
+    </software_metadata>
+  </software>
+</package>

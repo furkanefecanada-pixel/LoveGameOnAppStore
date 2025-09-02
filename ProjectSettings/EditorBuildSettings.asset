@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Positions.unity
+    guid: 129ff7047954ebb4095c769b8c95422f
+  - enabled: 1
+    path: Assets/Scenes/TruthOrDare.unity
+    guid: 267b3f9b07961a94ab3f4c23a873cf43
+  - enabled: 1
+    path: Assets/Scenes/LoveRoulette.unity
+    guid: 91c275b90ed9b944f9e64810d69a9ec5
+  - enabled: 1
+    path: Assets/Scenes/Roleplay.unity
+    guid: ad5db6901f4d1584980c67a31e1bdb73
+  - enabled: 1
+    path: Assets/Scenes/PerfectSync.unity
+    guid: 1ecf15691a5db47f499cb365cd535316
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 112362f756051494187b88798991a6a1, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: f8978cef916fdb14797b63759204a289, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
